@@ -1,0 +1,120 @@
+#sec1{
+    text-align:center;
+    background:linear-gradient(yellow,darkorange,darkred);
+}
+
+h1{
+    font-size: x-large;
+    line-height: 1.2;
+    font-weight: 1000;
+    color:orange;
+}
+h5{
+    color:yellow;
+}
+
+.profile{
+    border-radius: 50%;
+}
+
+.line{
+    background-color:black;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+
+    
+
+}
+#sec2{
+    text-align: center;
+}
+
+.menu{
+    list-style: none;
+    cursor: pointer;
+    position: absolute;
+    z-index: 10px;
+    font-family: fantasy;
+    right:30px;
+    top: 10px;
+
+}
+
+.links{
+    float:right;
+    font-size: 20px;
+    color:red;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom:5px;
+
+}
+
+
+
+#ytvids{
+    text-align: center;
+}
+
+
+
+#hir{
+    font-family:cursive;
+    font-weight: 700px;
+}
+
+
+
+#hhhh{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+#bobthebiulder{
+      text-align: center;
+    background: linear-gradient(lightblue,violet,purple);
+
+
+
+
+
+
+
+
+
+}
+
+
+body{
+    background: linear-gradient(yellow,orange,red);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
